@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "username": "admin",
+      "firstname": "ADMIN",
+      "lastname": "ANGULAR",
+      "password": "admin",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Sunlight",
+      "cost": 10,
+      "quantity": 1000
+    },
+    {
+      "id": 2,
+      "name": "Product002",
+      "cost": 20,
+      "quantity": 2000
+    },
+    {
+      "id": 3,
+      "name": "Product003",
+      "cost": 30,
+      "quantity": 3000
+    },
+    {
+      "name": "chocolatos",
+      "cost": "1000",
+      "quantity": "10000",
+      "id": 5
+    },
+    {
+      "name": "aqua",
+      "cost": "3500",
+      "quantity": "200",
+      "id": 7
+    },
+    {
+      "name": "coke",
+      "cost": "8000",
+      "quantity": "200",
+      "id": 8
+    }
+  ]
+}
